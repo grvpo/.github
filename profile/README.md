@@ -1,4 +1,10 @@
-## Hi there 👋
+## GRUPO
+
+
+>### Artur De Miranda Rodrigues - 224538 (<a href='https://github.com/arturrur'>@arturrur</a>)
+>### Eliel Oliveira - 221437 (<a href='https://github.com/oliveiraeliel'>@oliveiraeliel</a>)
+>### Matheus Farias Barbosa - 230888 (<a href='https://github.com/'>@</a>)
+
 
 <!--
 
